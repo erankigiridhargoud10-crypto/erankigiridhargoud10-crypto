@@ -13,16 +13,70 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erankigiridhargoud10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-<br/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=8b5cf6&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?color=8b5cf6&style=flat-square&label=Stars)
+<div align="center">
+
+```text
+==+++++===--==============+++****+=-::-=-:::......:::::::::-==-----::::..:::..............
+-=========--::--======++===-=++***+=--------====+======--::-=+=-::::::::::::::............
+===---===========----===+++==+++++=--:::::--===---==+++==-==++==-:....::::::::..::::......
+=====-------=========--=====+*+::::.::---:::::::::::---------====-::..::::::...::::::.....
+-======+++=--=++++++++======++-:--------::::::-::..:::::...::--===-::::--:::.::::::::.....
+-----====---::--====++++++++==--===----:::::-::::-------:::.:::--==------::..::::::::.....
+==-------==++====----==+=+=---------::-::.........:::-:--::------==-===-::.....:::.:::....
+++++==-----==++=====---::-:..::::::::................::-::.::::-----===-:.... ..::..:.....
+******++==------==========:...:.....  ....:........ ....::::......::----::....::::::::....
+++++++++====++===---=====+=:.......  .......  .          ...:... ..::--::::..:-------:....
+++++++++=-==+++++===---=++++-...   ......    ......... ..     ...:::---::::..:-------::...
+++++++++=--:---=========--==+-....:::. .......::::::::::::.   ..:-:::::::.....-------::...
+*******+++++++==++++++++++++**: :-----:.:::----============-....-==-::::......::::::::::..
+*******#%%%%%%%%%%%##*********= .---===---======--:::::-=+++-.:-=+=+++=====--------:::::..
+####*+=+#%%%%%%##*+**++**####=-..-::....::-===-:......::-=**=:==-==+****************+++===
+****++==+*###*+==++**++******=--.-::.:..::-=++=-------==++**+-+===+######*****###*********
++++++++==-=++=-===+++=++++++++=-:=====--====+***++++++*****++-=+*+***************++*****##
+===+=====----=========+++++++====-++++++===+*****++++****++++==+++===+++++++++++====++++**
+-========---==++++++++++++++===++-===+======+++=+++====++++++====================-====++++
+========-:--=++++*****+****++=++++--======-:::::-===--=====+==-==--:--=======----------===
+=======-::-==+++*********+=---==--:--====-::----=---:--=======:::.:::-------====----------
+=======-..-=++++****+==------::-=:.:--++*+=-===++=========--:--...:-:-.::::-=+=====-------
+++=====: .:-=+++**=--:-::..:::::: .:.:-=+***+=-::--=====---..-=:..:..::::.:.::----===-----
+======-.  .:-=+=-::.::::.....:::. :..=+++++++**++++==--:::. ::--....:.....:.:::-==++++====
+======-   .::--::::::-::::::..:: .=+=+++++=++++*****=::::. .:-:-:. .::::::-.::::=====+#*=-
++====-:   ..---:::--:::::::...::-=+*+====++++++*******=:. .-=--::. .::::--:--::::::::-=%*=
+====-:.    .---:::--::::::.:...:**++=====++=++++******=. .:-----:. .::::-::----.::::-:-##*
+=---:.    .-=---:::::::.::.:...:=++========+++++*****+...:::-=-::.  ::::-::--::::----:-*#*
+::--::::..--=-:-:::::...      ...-=========++++++++++-  ..    .::...   ..::::::::--:---+#*
+**#####%%+------:::::...        . :===========+++++**:            ... .. ...::..::::-==+#*
+%%%%%%%%=:.:::.:-::..:..       .:. .-===========++++*=. .         ... ......::.:::-:-=-=*+
+%%%%%%%=..:.......::...         :..  :-==+++++=====+++=.         .... . .::::...::::----##
+%%%%%%=...:.:.... ..   ..    .  ::......:-=+++========++:            .......:..:-::-----*@
+%%%%%=.:..:::-:........ ..  ............. .:-++========++=.          ...:::::-:--------:-%
+%%%%+:::::----::.:::. . .         ...... ... :-==----====++-.        ..:---::--------=-::*
+%%%*::::::-----.::..              ...::....:: .-==---=====+++:      ...-::::---------=::-=
+%%*::::::----::::...    ..         ..::.....:...:--========+++=. .... .:::-:--:--:::::---=
+#*::::::::::----:...    ...     .  ...::.::......:--========++++-......::::..:.::..::-=--=
++-:::----::::--...... .   ..   .   .....:::.. ....:---========++*+=..   .......:..:::---:=
+-:::--:::-::::::::...:. ...:........ ..::...... ..:.---=========++*+-.....     ..::..-=-:=
+--::::::::.::.::.. .=:  ...::....:..  ...............----===-====+++*-:::::...  ..:::.:::+
+=---=---:--:--:.  .-+-   ....:.....   .........    ...:--------====+=::::::: .::..  . ..:+
+-----::--::::::  =***+   ..........    ::..:............---------===-.:::::::..:--:..   .:
+---:-::---::::. -#*=+-             .   ..........:.....  :----------....:::::::..:---:.. .
+---:::::::....  :==-=.            ..    .............     ::------:..........::::  :====--
+................::::-.            ..     ......:. ..  .....:---:::.............::.  :--::-
+...:--::::::::::::::::...     .   ..                .-++++==+++=:.................   .::::
+:::--.......:::::::::..     .                      :++++=-----=++=-................ .  :::
+:::-.......::::::... ...:::.....                 :=+++++*+++==+++*+.  ..............:  :::
+:.:................::-==+++++=======------::::--===================.    ......  .::::. :-:
+:::...............:--====================================++=======+:       .... ::-:.:.:::
+.............  .::--------===============-----=========++++++======-      ....: ..:..:::::
+:....   ....   .:::--------------------===------------=--==---====-      ...::.......--:::
+***++=--:........::::::::::::------------=====--------============-:::... .   .....:-=-:::
+```
 
 </div>
 
@@ -78,18 +132,8 @@ My work spans **classical ML**, **deep learning**, and **NLP**, with an emphasis
 
 ## 💼 Experience
 
-**AI/ML Engineering Fundamentals (Self-Directed Project Track)**
-*Independent Study — 2024–Present*
-
-Applied core ML and deep learning concepts through end-to-end project work, covering the full lifecycle from data acquisition to model deployment.
-
-- Built and evaluated ML/DL models across NLP, computer vision, and structured-data domains
-- Established reproducible workflows using Git for version control and Docker for environment consistency
-- Practiced systematic model evaluation using standard metrics (precision, recall, F1-score, accuracy)
-
-`Python` `Scikit-Learn` `TensorFlow` `PyTorch` `SQL` `Docker` `Git`
-
-> *Add your internships or professional roles here in the same format.*
+**Self-Directed Project Track**
+*Currently working on AI/ML projects*
 
 ---
 
@@ -114,36 +158,6 @@ Applied core ML and deep learning concepts through end-to-end project work, cove
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -177,7 +191,6 @@ open_to:
 [![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erankigiridhargoud10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
