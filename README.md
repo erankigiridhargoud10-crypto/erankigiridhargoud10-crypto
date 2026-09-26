@@ -1,91 +1,192 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Eranki%20Giridhar%20Goud&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Eranki%20Giridhar%20Goud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;Exploring+React+%26+Next.js;Building+with+FastAPI+%26+Django;Diving+into+LangChain+%26+OpenAI+API;Always+learning%2C+always+building" alt="Typing SVG" />
-
-<br/>
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Intelligent+Systems+with+Python;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+Data+into+Deployable+Products" alt="Typing SVG" />
+</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=erankigiridhargoud10-crypto&color=7dd3fc&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/erankigiridhargoud10-crypto?color=7dd3fc&style=for-the-badge&label=Followers)
+![B.Tech](https://img.shields.io/badge/B.Tech-Expected%202029-6D28D9?style=flat-square&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/📍-Hyderabad,%20India-6D28D9?style=flat-square&labelColor=1a1a2e)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erankigiridhargoud10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8b5cf6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=8b5cf6&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?color=8b5cf6&style=flat-square&label=Stars)
 
 </div>
 
 ---
 
-## 👋 Who I Am
+## 🪞 About Me
 
-```typescript
-const giridhar = {
-  title: "CS Student",
-  stack: {
-    languages: ["JavaScript", "Python", "Java"],
-    frontend: ["React", "Next.js", "HTML", "CSS"],
-    backend: ["Node.js", "Django", "FastAPI", "Spring Boot"],
-    ai_ml: ["OpenAI API", "LangChain", "TensorFlow", "PyTorch"],
-    tools: ["Git", "GitHub", "VS Code", "Postman"],
-  },
-  launchedProjects: "in progress 🚧",
-  certifications: [],
-  status: "Learning, building, and exploring AI-powered apps",
-  openTo: ["Internships", "Full-time roles", "Collaborations"],
-};
+```yaml
+name: "Eranki Giridhar Goud"
+role: "Aspiring AI/ML Engineer & Software Engineer"
+based_in: "Hyderabad, India"
+```
+
+I'm a B.Tech student at **Sphoorthy Engineering College** (Expected 2029) with a strong foundation in software engineering fundamentals and applied machine learning. I focus on building end-to-end ML pipelines — from data preprocessing and model training to reproducible, containerized deployment — while continuing to grow as a full-stack engineer with a product-oriented mindset.
+
+My work spans **classical ML**, **deep learning**, and **NLP**, with an emphasis on writing clean, version-controlled, and reproducible code using Git and Docker. I approach engineering problems analytically, valuing measurable impact, model evaluation rigor, and maintainable systems over one-off scripts.
+
+**🎯 Open To:** AI/ML Engineer roles · Software Engineering Internships · Research Collaborations · Open Source Contributions
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+
+![Python](https://skillicons.dev/icons?i=python) ![SQL](https://img.shields.io/badge/SQL-4C1D95?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js)
+
+**ML / Deep Learning & Backend**
+
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![sklearn](https://img.shields.io/badge/Scikit--Learn-6D28D9?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Cloud, DevOps & Tooling**
+
+![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Jupyter](https://skillicons.dev/icons?i=jupyter) ![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Machine Learning | ⭐⭐⭐⭐☆ | Regression, classification, feature engineering, model evaluation (precision/recall/F1) |
+| Deep Learning | ⭐⭐⭐⭐☆ | CNN architectures, data augmentation, regularization, TensorFlow & PyTorch |
+| Natural Language Processing | ⭐⭐⭐☆☆ | Tokenization, TF-IDF vectorization, sentiment classification pipelines |
+| MLOps & Reproducibility | ⭐⭐⭐☆☆ | Docker-based training environments, Git-tracked experiment versioning |
+| Data Engineering (SQL) | ⭐⭐⭐☆☆ | Querying and preprocessing large structured datasets for ML pipelines |
+
+---
+
+## 💼 Experience
+
+**AI/ML Engineering Fundamentals (Self-Directed Project Track)**
+*Independent Study — 2024–Present*
+
+Applied core ML and deep learning concepts through end-to-end project work, covering the full lifecycle from data acquisition to model deployment.
+
+- Built and evaluated ML/DL models across NLP, computer vision, and structured-data domains
+- Established reproducible workflows using Git for version control and Docker for environment consistency
+- Practiced systematic model evaluation using standard metrics (precision, recall, F1-score, accuracy)
+
+`Python` `Scikit-Learn` `TensorFlow` `PyTorch` `SQL` `Docker` `Git`
+
+> *Add your internships or professional roles here in the same format.*
+
+---
+
+## 🎯 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/YOUR_USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR_USERNAME)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🔭 Current Focus
+
+```yaml
+learning:
+  - Advanced Deep Learning Architectures
+  - MLOps & Model Deployment
+  - System Design Fundamentals
+building:
+  - End-to-end ML pipelines with CI/CD
+  - Personal AI/ML project portfolio
+exploring:
+  - Large Language Models (LLMs)
+  - Cloud-native ML infrastructure
+open_to:
+  - AI/ML Engineer roles
+  - Internship opportunities
+  - Open source collaboration
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,py,java" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,spring" />
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-**Dev Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
----
-
-## 📊 GitHub Stats
+## 📬 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=erankigiridhargoud10-crypto&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5&hide_border=false" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erankigiridhargoud10-crypto&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&hide_border=false" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=erankigiridhargoud10-crypto&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=erankigiridhargoud10-crypto&no-frame=true&no-bg=true&theme=nord" width="90%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erankigiridhargoud10-crypto&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%"/>
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erankigiridhargoud10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/eranki-giridhar-goud-3760b93ab)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:erankigiridhargoud10@gmail.com)
+*"Code is the bridge between data and decisions — build it with intent."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
